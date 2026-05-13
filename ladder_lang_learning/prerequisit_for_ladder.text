@@ -1,0 +1,20 @@
+1. Essential Core Concepts
+Before writing code, you must understand how industrial hardware operates:
+* Electrical Circuits: Basic understanding of voltage, current, and continuity.
+* Series vs. Parallel: How components link together to create or interrupt a path.
+* Relays & Switches: How physical switches control power flow to a load.
+* Schematic Reading: The ability to read standard electrical blueprints.
+
+2. Digital Logic Foundations
+Ladder logic executes based on true/false states. You need a grasp of:
+* Binary States: Understanding 0 (Off/False) and 1 (On/True).
+* Boolean Gates: Familiarity with AND (series), OR (parallel), and NOT (inversion) logic operations.
+
+3. Basic Hardware Familiarity
+You should know what a Programmable Logic Controller (PLC) is and its key hardware components:
+* Inputs: Push buttons, proximity sensors, and limit switches.
+* Outputs: Motors, valves, indicator lights, and solenoids.
+* CPU Scan Cycle: How a controller reads inputs, executes logic, and updates outputs sequentially.
+
+Note undestand all comman input comman output and its working also go through pdf in this folder 
+then you ready to learn ladder lang   yess you did it keep it up !!!
